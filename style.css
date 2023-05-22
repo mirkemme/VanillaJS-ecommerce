@@ -272,6 +272,7 @@ input[type="password"] {
 }
 
 select {
+  overflow: hidden;
   outline: 0;
 }
 
